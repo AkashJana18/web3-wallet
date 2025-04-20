@@ -1,9 +1,10 @@
-import { ModeToggle } from "@/components/theme-button";
+import Header from "@/components/Header";
 
 export default function Home() {
   return (
     <div>
-      <ModeToggle />
+      <Header />
+      
     </div>
   );
 }
